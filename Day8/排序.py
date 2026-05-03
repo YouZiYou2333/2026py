@@ -20,3 +20,5 @@ class Sort:
 if __name__ == '__main__':
     my_sort=Sort(10)
     print(my_sort.arr)
+    print('1 2 3 4 5 6 7'.split())
+    
